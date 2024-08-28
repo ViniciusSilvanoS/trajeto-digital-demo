@@ -13,7 +13,7 @@ const HomePage = () => {
         <img src={BlurBlue}  className='pointer-events-none absolute top-0 right-0 h-[1500px] w-[600px] ' alt="Desfoque azul de fundo" />
         <div className='z-0'>
           <NavBar />
-          <div className='flex-grow flex justify-center items-center mt-24'>
+          <div className='flex-grow flex justify-center items-center mt-24 mb-24'>
               <MainContent />
           </div>
           <ServicesContent />
