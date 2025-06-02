@@ -13,7 +13,7 @@ const Footer = () => {
               <img src={LogoBlack} alt="Logo trajeto digital" />
             </div>
             <p className="text-center md:text-left text-base text-[#71717A]">
-              Vendemos resultados e não promessas.
+              Impulsione seu negócio com inteligência, não esforço.
             </p>
           </div>
           <Button className="border border-black text-[#0F172A] font-semibold">
