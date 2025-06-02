@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Button = ({className, children}) => {
-  const phoneNumber = '+5551995199227';
+  const phoneNumber = '5551995199227';
   const urlWpp = `https://wa.me/${phoneNumber}`;
 
   return (
