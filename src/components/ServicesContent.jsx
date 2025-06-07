@@ -15,7 +15,7 @@ const ServicesContent = () => {
     <div className='w-full flex flex-col items-center gap-20 py-24 px-4 md:px-4'>
         <div className='flex flex-col gap-6 items-center'>
             <h2 className='text-3xl md:text-5xl font-semibold text-white'>Conheça nossos serviços</h2>
-            <p className='text-base md:text-lg text-[#C7CCD4]'>Trabalho duro em todas nossas entregas.</p>
+            <p className='text-base md:text-lg text-[#C7CCD4]'>Impulsione seu negócio com inteligência, não esforço.</p>
         </div>
         <div className='flex flex-col md:flex-row gap-8 md:h-[568px] justify-evenly w-full md:w-full'>
             <Card titulo="Automação" subtitulo="Produtividade" imagem={LandingPage} linkWpp={urlWpp + landingPage} />
